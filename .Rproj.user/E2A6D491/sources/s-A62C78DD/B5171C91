@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583226685235.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B5171C91",
+    "lastKnownWriteTime" : 1583226696,
+    "last_content_update" : 1583226696629,
+    "path" : "~/Rprojects/lab_03/ex3.R",
+    "project_path" : "lab_03/ex3.R",
+    "properties" : {
+        "cursorPosition" : "2,27",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
