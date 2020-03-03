@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583225158769.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "266CD0A4",
+    "lastKnownWriteTime" : 1583225636,
+    "last_content_update" : 1583225636445,
+    "path" : "~/Rprojects/lab_03/ex31.r",
+    "project_path" : "lab_03/ex31.r",
+    "properties" : {
+        "cursorPosition" : "9,18",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
