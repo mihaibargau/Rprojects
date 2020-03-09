@@ -1,0 +1,3 @@
+head(faithful)
+duration = faithful$eruptions
+mean(duration)
