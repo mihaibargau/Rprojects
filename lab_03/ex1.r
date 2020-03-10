@@ -6,5 +6,3 @@ duration.cut = cut(duration, breaks, right=FALSE)
 duration.freq = table(duration.cut) 
 duration.freq
 duration.cut
-
-max(duration.freq)
