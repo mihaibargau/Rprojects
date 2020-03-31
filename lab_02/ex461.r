@@ -1,4 +1,4 @@
-setwd("C:\Users\Mihai\Documents\Rprojects")
+setwd("C:/Users/Mihai/Documents/Rprojects/lab_02")
 
 TP <- read.table(file = "Temperature.txt", header = TRUE, dec = ".")
 

@@ -1,4 +1,4 @@
-setwd("C:\Users\Mihai\Documents\Rprojects")
+setwd("C:/Users/Mihai/Documents/Rprojects/lab_02")
 
 birdflu <- read.table(file = "BirdFluCases.txt", header = TRUE, dec = ".")
 
