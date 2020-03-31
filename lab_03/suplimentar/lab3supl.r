@@ -1,7 +1,7 @@
 #Incarcati in R setul de date Titanic (disponibil prin link de pe pagina principala). 
 #Analizati datele din acest fisier, cuprinzand macar urmatoarele:
 
-directory     <- "C:/Users/Lenovo/Desktop/ModelareSiSimulare"
+directory     <- "C:/Users/Mihai/Documents/Rprojects/lab_03/suplimentar"
 
 fisierTitanic <- file.path(directory, "trainTitanic.csv")
 
