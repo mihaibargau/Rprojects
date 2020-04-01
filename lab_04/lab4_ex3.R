@@ -1,1 +1,0 @@
-runif(10, min=1, max=3)
